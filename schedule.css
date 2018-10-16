@@ -1,0 +1,24 @@
+/*
+*Tara Frane
+*Due Date
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+*{ 
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: plum
+
+} 
+table, td, th { border: 1px solid blue; }
+table { border-collapse: collapse; }
+
+tbody { background-color: lightgoldenrodyellow}
+thead { background-color: pink;}
+tfoot { background-color: skyblue;}
